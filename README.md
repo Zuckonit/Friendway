@@ -5,10 +5,11 @@ Send message by group, by friendly greet, with name at least ~
   
   
 ##Functions
->  send message by group with each contact's name
->  change special contact's name temporarily
->  select all, anti-select contacts
->  less than 70 words of each sms message
+>  send message by group with each contact's name  
+>  change special contact's name temporarily  
+>  select all, anti-select contacts  
+>  less than 70 words of each sms message  
+>  the default head of each contact is setted as totoro, if there is a head of one contact previously, then here is it.  
 
 ##Screenshots
 * Starting UI  
