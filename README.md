@@ -12,15 +12,15 @@ Send message by group, by friendly greet, with name at least ~
 
 ##Screenshots
 * Starting UI  
-![start](https://github.com/Zuckonit/Friendway/tree/master/.screenshots/start.jpg)
+![start](https://raw.github.com/Zuckonit/Friendway/master/.screenshots/start.jpg)
   
 * Contact List  
-![list](https://github.com/Zuckonit/Friendway/tree/master/.screenshots/list.jpg)
+![list](https://raw.github.com/Zuckonit/Friendway/master/.screenshots/list.jpg)
   
 * Change contact name (which will be the nickname to this number during your message)  
-![change](https://github.com/Zuckonit/Friendway/tree/master/.screenshots/changename.jpg)
+![change](https://raw.github.com/Zuckonit/Friendway/master/.screenshots/changename.jpg)
   
 * send message  
-![message](https://github.com/Zuckonit/Friendway/tree/master/.screenshots/send.jpg)
+![message](https://raw.github.com/Zuckonit/Friendway/master/.screenshots/send.jpg)
 
 
