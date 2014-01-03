@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#2B3439"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/anti_select_all"
+            style="@style/CustomCheckboxTheme"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="10" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="60"
+            android:gravity="center"
+            android:text="@string/title_activity_contact_list"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/select_all"
+            style="@style/CustomCheckboxTheme"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_weight="10" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@null"
+        android:paddingBottom="50dp" >
+    </ListView>
+
+</LinearLayout>
